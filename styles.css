@@ -135,3 +135,37 @@ p.attribution{
   font-weight: bolder;
   text-align: right;
 }
+
+.callToAction {
+  background-color: #3882f6;
+  margin: 50px 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: #f9faf8;
+  gap: 50px;
+}
+
+div.callToAction {
+  border-radius: 10px;
+  padding: 50px 50px;
+}
+
+.callToAction button {
+  border: #f9faf8;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.callToAction p {
+  font-size: large;
+  margin: 0;
+}
+
+
+
+p.callToAction-title{
+
+  font-size: x-large;
+  font-weight: bolder;
+}
