@@ -113,3 +113,25 @@ button{
   height: 120px;
   width: 120px;
 }
+
+.quote {
+  display: flex;
+  flex-direction: column;  
+  background-color: #e5e7eb;
+  padding: 100px 300px 50px;
+  margin: 0;  
+  gap: 0px;
+}
+
+.quote p {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1F2937;
+}
+
+p.attribution{
+  font-size: 24px;
+  font-weight: bolder;
+  text-align: right;
+}
